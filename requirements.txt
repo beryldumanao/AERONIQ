@@ -1,0 +1,4 @@
+pymavlink>=2.4.40
+tkintermapview>=1.29
+opencv-python>=4.8.0
+Pillow>=10.0.0
